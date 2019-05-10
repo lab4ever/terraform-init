@@ -1,0 +1,8 @@
+terraform.tfplan
+.terraform/
+*.bak
+.*.swp
+.idea
+*.plan
+*.retry
+*.aws
